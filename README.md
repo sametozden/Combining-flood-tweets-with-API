@@ -1,4 +1,4 @@
-# implode tweet floods with API
+# implode flood tweets with API
  
 I use Abraham's API for get tweets.
 
