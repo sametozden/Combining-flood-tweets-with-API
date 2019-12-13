@@ -1,4 +1,4 @@
-# Joining flood tweets with API
+# Combining flood tweets with API
  
 I use Abraham's API for get tweets.
 
